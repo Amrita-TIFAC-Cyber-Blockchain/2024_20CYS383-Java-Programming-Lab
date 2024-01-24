@@ -1,6 +1,7 @@
 # 20CYS383 Java Programming Lab
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue) <br/>
-![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown)
+![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-1-orange) ![](https://img.shields.io/badge/Tools-IntelliJ-brown) ![](https://img.shields.io/badge/-HPOJ-brown)  <br/>
+![](https://img.shields.io/badge/Students-72-gold)
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
@@ -18,7 +19,7 @@
 
 | Unit # | Topic | Classes |
 |:------:|:-------|:------------:|
-|    0   |  Course Introduction  |  | 
+|    0   |  Course Introduction  | ![](https://img.shields.io/badge/-24th_Jan-gold)  | 
 |    0   |  Java Installation and Installation of IntelliJ | | 
 |    1   |  Introduction to Java | |
 |    1   |  Introduction to Classes and Objects  | | 
@@ -45,18 +46,24 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal]** Lab Evaluation - 1 | 5 |
-| **[Internal]** Lab Evaluation - 2 | 10 |
-| **[Internal]** Mini-Project (Idea Document + Implementation + Report) | 10 |
+| **[Internal]** Lab Evaluation - 1 | 2.5 |
+| **[Internal]** Lab Evaluation - 2 | 2.5 |
+| **[Internal]** Mini-Project (Idea Document + 50% Implementation with CLI + Report) | 15 |
 | **[Internal]** Mid-Term Examination | 20 |
-| **[Internal]** Lab Evaluation - 3 | 5 |
-| **[Internal]** Lab Evaluation - 4 | 10 |
+| **[Internal]** Lab Evaluation - 3 | 2.5 |
+| **[Internal]** Lab Evaluation - 4 | 2.5 |
+| **[Internal]** Mini-Project (100% Implementation with GUI + Report) | 15 |
 | **[External]** End-Semester Exam | 40 |
 
 ### Dates and Deadlines
 
 | Deadline for | Dates |
 |:------------|:-----:|
+| Project Topics Finalization  | 03 - Feb - 2024 | 
+| Project SRS  | 15 - Feb - 2024 | 
+| Lab Evaluation - 1 | 01 - Mar - 2024 |
+| Mid-Term Examination | Mar - 2024 |
+| End Semester Examination | May - 2024 |
 
 Click [Record]() to view Records Submitted.
 
