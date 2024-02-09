@@ -20,7 +20,7 @@
 | Unit # | Topic | Classes |
 |:------:|:-------|:------------:|
 |    0   |  Course Introduction  | ![](https://img.shields.io/badge/-24th_Jan-gold)  | 
-|    0   |  Java Installation and Installation of IntelliJ | | 
+|    0   |  Java Installation and Installation of IntelliJ | ![](https://img.shields.io/badge/-09th_Feb-gold)  | 
 |    1   |  Introduction to Java | |
 |    1   |  Introduction to Classes and Objects  | | 
 |    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
