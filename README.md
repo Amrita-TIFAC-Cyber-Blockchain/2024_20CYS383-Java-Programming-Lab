@@ -5,7 +5,7 @@
 
 20CYS383 - Java Programming Lab - 4th Sem - B.E. CSE (CYS) - ASE, CBE
 
-#### Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
+#### Course Instructor:  Ramaguru R, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security, Coimbatore.
 
 ### Course Outcome
 
@@ -21,7 +21,7 @@
 |:------:|:-------|:------------:|
 |    0   |  Course Introduction  | ![](https://img.shields.io/badge/-24th_Jan-gold)  | 
 |    0   |  Java Installation and Installation of IntelliJ | ![](https://img.shields.io/badge/-09th_Feb-gold)  | 
-|    1   |  Introduction to Java | |
+|    1   |  Introduction to Java | ![](https://img.shields.io/badge/-16th_Feb-gold) |
 |    1   |  Introduction to Classes and Objects  | | 
 |    1   |  Interfaces: Define, Implement, Typing, Extending/Evolving Interface, Annotations |  | 
 |    1   |  Inheritance, overriding, and hiding methods: static, interface, and instance methods |   | 
